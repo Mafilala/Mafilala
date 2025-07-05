@@ -9,7 +9,7 @@ I’m currently working as the **Head of Education** at **A2SV**, where I lead v
 ## Tech Stack
 
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Shadcn
-- **Backend**: Django, FastAPI, Firebase
+- **Backend**: Go, Django, FastAPI
 - **Tools**: Git, GitHub, Jira, VS Code, Firebase, Clerk, Liveblocks
 - **Database**: MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
