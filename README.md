@@ -9,12 +9,17 @@ I’m currently working as the **Head of Education** at **A2SV**, where I lead v
 ## Tech Stack
 
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Shadcn
-- **Backend**: Go, Django, FastAPI
+- **Backend**: Go, Django, FastAPI, Gorm
 - **Tools**: Git, GitHub, Jira, VS Code, Firebase, Clerk, Liveblocks
 - **Database**: MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
 
 ## Projects
+
+
+### [Ketero](https://github.com/Mafilala/ketero)
+A full-stack custom order management system built for tailoring businesses.
+It combines a web-based dashboard and a Telegram bot to streamline client interactions, order tracking, and measurement handling.
 
 ### [Collaboration Platform (Notion-like)](https://github.com/Mafilala/Colab)
 A real-time collaboration platform built with **Next.js**, **Firebase**, **Clerk**, and **Liveblocks** for seamless document editing and team communication.
